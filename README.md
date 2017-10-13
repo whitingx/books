@@ -1,5 +1,5 @@
 # 📚 Books
-List of books useful to those working in the areas of Product Design &amp; UX. Listing take the format of;
+List of books useful to those working in the areas of Product Design &amp; UX. Listings take the format of;
 
 📘 **Book Title** - *Author*<br />
 🌐 *Book website*<br />
