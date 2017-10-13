@@ -5,7 +5,7 @@ List of books useful to those working in the areas of Product Design &amp; UX. L
 🌐 *Book website*<br />
 🛒 *Amazon (UK) link*
 
-## Key Texts
+## The Essentials
 
 📕 **Don’t Make Me Think, Revisited** - *Steve Krug*<br />
 🌐 https://www.sensible.com/dmmt.html<br />
@@ -13,3 +13,9 @@ List of books useful to those working in the areas of Product Design &amp; UX. L
 
 📘 **The Design of Everyday Things, *revised and expanded edition*** - *Donald A. Norman*<br />
 🛒 http://amzn.eu/hBHJrjl
+
+## Other Book Lists
+Collecting together useful lists collated by others.
+
+🌐 http://www.nickfinck.com/blog/entry/nicks_top_user_experience_books_for_2014/<br />
+🌐 https://medium.com/interactive-mind/the-only-ux-reading-list-ever-d420edb3f4ff
