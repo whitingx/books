@@ -5,16 +5,16 @@ List of books useful to those working in the areas of Product Design &amp; UX. L
 🌐 *Book website*<br />
 🛒 *Amazon (UK) link*
 
-## The Essentials
-
 📕 **Don’t Make Me Think, Revisited** - *Steve Krug*<br />
 🌐 https://www.sensible.com/dmmt.html<br />
 🛒 http://amzn.to/2gea86G
 
+📕 **Rocket Surgery Made Easy: *The Do-It-Yourself Guide to Finding and Fixing Usability Problems*** - *Steve Krug*<br />
+🌐 http://www.sensible.com/rsme.html<br />
+🛒 http://amzn.to/2xKcFRu
+
 📘 **The Design of Everyday Things, *revised and expanded edition*** - *Donald A. Norman*<br />
 🛒 http://amzn.to/2gHgLzc
-
-## Anthropology
 
 📘 **Critical Mass: How One Thing Leads to Another** - *Philip Ball*<br />
 🛒 http://amzn.to/2gH43jZ
