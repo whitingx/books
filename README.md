@@ -42,7 +42,7 @@ List of books useful to those working in the areas of Product Design &amp; UX. L
 🛒 *http://amzn.to/2yt7ZPa*
 
 **Politics and the English Language** - *George Orwell*<br />
-🛒 *http://amzn.to/2kT2iVr*<br/>
+🛒 *http://amzn.to/2kT2iVr*<br/><br/>
 <img src="https://images-na.ssl-images-amazon.com/images/I/418Xj79ENkL._SX305_BO1,204,203,200_.jpg" width="80px" />
 
 ## Other Book Lists
