@@ -76,4 +76,5 @@ Collecting together useful lists collated by others.
 
 🌐 http://www.nickfinck.com/blog/entry/nicks_top_user_experience_books_for_2014/<br />
 🌐 https://medium.com/interactive-mind/the-only-ux-reading-list-ever-d420edb3f4ff<br />
-🌐 https://www.billbuxton.com/bill_buxton_design_library.html
+🌐 https://www.billbuxton.com/bill_buxton_design_library.html<br />
+🌐 https://www.goodreads.com/group/show/202195-user-experience-design-slack
