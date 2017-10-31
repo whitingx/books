@@ -3,7 +3,7 @@ List of books useful to those working in the areas of Product Design &amp; UX. L
 
 📘 **Book Title** - *Author*<br />
 🌐 *Book website*<br />
-🛒 *Amazon (UK) link*<br />
+🛒 *Amazon (UK) affiliate link*<br />
 📷 *Book cover image*
 
 # Recommended Books
@@ -54,6 +54,11 @@ List of books useful to those working in the areas of Product Design &amp; UX. L
 **Politics and the English Language** - *George Orwell*<br />
 🛒 *http://amzn.to/2kT2iVr*<br/><br/>
 <img src="https://images-na.ssl-images-amazon.com/images/I/418Xj79ENkL._SX305_BO1,204,203,200_.jpg" width="80px" />
+
+**Sense and Respond: *How Successful Organizations Listen to Customers and Create New Products Continuously*** - *Jeff Gothelf, Josh Seden*<br />
+🌐 *http://senseandrespond.co/*<br />
+🛒 http://amzn.to/2hrtiae<br /><br />
+<img src="https://images-na.ssl-images-amazon.com/images/I/41OzwGTzDQL._SX330_BO1,204,203,200_.jpg" width="80px" />
 
 ## Other Book Lists
 Collecting together useful lists collated by others.
