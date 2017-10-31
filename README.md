@@ -60,6 +60,17 @@ List of books useful to those working in the areas of Product Design &amp; UX. L
 🛒 http://amzn.to/2hrtiae<br /><br />
 <img src="https://images-na.ssl-images-amazon.com/images/I/41OzwGTzDQL._SX330_BO1,204,203,200_.jpg" width="80px" />
 
+**Web Typography: *A handbook for designing beautiful and effective typography in responsive websites*** - *Richard Rutter*<br />
+🌐 *http://book.webtypography.net/*<br />
+🌐 *http://webtypography.net/*<br />
+🛒 http://amzn.to/2z5uo5c<br /><br />
+<img src="https://images-na.ssl-images-amazon.com/images/I/31nEPQoCQ2L._SX355_BO1,204,203,200_.jpg" width="80px" />
+
+
+**The Elements of Typographic Style: *Version 4.0*** - *Robert Bringhurst*<br />
+🛒 http://amzn.to/2xEh8RF<br /><br />
+<img src="https://images-na.ssl-images-amazon.com/images/I/41aX0fEkNwL._SX291_BO1,204,203,200_.jpg" width="80px" />
+
 ## Other Book Lists
 Collecting together useful lists collated by others.
 
