@@ -16,6 +16,11 @@ List of books useful to those working in the areas of Product Design &amp; UX. L
 
 ## D
 
+**Design For Real Life** - *Eric Meyer, Sara Wachter-Boettcher*<br />
+🌐 *https://abookapart.com/products/design-for-real-life*<br />
+🛒 http://a.co/540Lav3<br /><br />
+<img src="https://images-na.ssl-images-amazon.com/images/I/412my%2Buw80L._SX269_BO1,204,203,200_.jpg" width="80px" />
+
 **Design Systems** - *Alla Kholmatova*<br />
 🌐 *https://www.smashingmagazine.com/design-systems-book/*<br />
 🛒 http://amzn.to/2iOfdY3<br /><br />
