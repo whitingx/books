@@ -38,6 +38,11 @@ List of books useful to those working in the areas of Product Design &amp; UX. L
 🛒 http://amzn.to/2yrlRta<br /><br />
 <img src="https://images-na.ssl-images-amazon.com/images/I/512-B-1yXuL._SX331_BO1,204,203,200_.jpg" width="80px" />
 
+**Information Architecture, *For the Web and Beyond*** - *Peter Morville, Louis Rosenfeld, Jorge Arango*<br />
+🌐 *http://shop.oreilly.com/product/0636920034674.do*<br />
+🛒 http://amzn.to/2hu3RoK<br /><br />
+<img src="https://images-na.ssl-images-amazon.com/images/I/51gpnrSXHHL._SX331_BO1,204,203,200_.jpg" width="80px" />
+
 ## L
 
 **Lean UX** - *Jeff Gothelf, Josh Seden*<br />
