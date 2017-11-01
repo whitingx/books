@@ -8,10 +8,13 @@ List of books useful to those working in the areas of Product Design &amp; UX. L
 
 # Recommended Books
 
+## C
 
 **Critical Mass: How One Thing Leads to Another** - *Philip Ball*<br />
 🛒 http://amzn.to/2gH43jZ<br /><br />
 <img src="https://images-na.ssl-images-amazon.com/images/I/51TZ62CYAVL._SX324_BO1,204,203,200_.jpg" width="80px" />
+
+## D
 
 **Design Systems** - *Alla Kholmatova*<br />
 🌐 *https://www.smashingmagazine.com/design-systems-book/*<br />
@@ -23,24 +26,34 @@ List of books useful to those working in the areas of Product Design &amp; UX. L
 🛒 http://amzn.to/2gea86G<br /><br />
 <img src="https://images-na.ssl-images-amazon.com/images/I/51pnouuPO5L._SX387_BO1,204,203,200_.jpg" width="80px" />
 
+## I
+
 **Influence: The Psychology of Persuasion** - *Robert B. Cialdini*<br />
 🌐 *https://www.influenceatwork.com/principles-of-persuasion/*<br />
 🛒 http://amzn.to/2yrlRta<br /><br />
 <img src="https://images-na.ssl-images-amazon.com/images/I/512-B-1yXuL._SX331_BO1,204,203,200_.jpg" width="80px" />
+
+## L
 
 **Lean UX** - *Jeff Gothelf, Josh Seden*<br />
 🌐 *http://www.leanuxbook.com/*<br />
 🛒 http://amzn.to/2yt7ZPa<br /><br />
 <img src="https://images-na.ssl-images-amazon.com/images/I/51dyM%2BAnExL._SX331_BO1,204,203,200_.jpg" width="80px" />
 
+## P
+
 **Politics and the English Language** - *George Orwell*<br />
 🛒 *http://amzn.to/2kT2iVr*<br/><br/>
 <img src="https://images-na.ssl-images-amazon.com/images/I/418Xj79ENkL._SX305_BO1,204,203,200_.jpg" width="80px" />
+
+## R
 
 **Rocket Surgery Made Easy: *The Do-It-Yourself Guide to Finding and Fixing Usability Problems*** - *Steve Krug*<br />
 🌐 *http://www.sensible.com/rsme.html*<br />
 🛒 http://amzn.to/2xKcFRu<br /><br />
 <img src="https://images-na.ssl-images-amazon.com/images/I/51uKs9Nat8L._SX388_BO1,204,203,200_.jpg" width="80px" />
+
+## S
 
 **Sense and Respond: *How Successful Organizations Listen to Customers and Create New Products Continuously*** - *Jeff Gothelf, Josh Seden*<br />
 🌐 *http://senseandrespond.co/*<br />
@@ -58,6 +71,8 @@ List of books useful to those working in the areas of Product Design &amp; UX. L
 🛒 http://amzn.to/2gdiADf<br /><br />
 <img src="https://images-na.ssl-images-amazon.com/images/I/51mdmpvISkL._SX324_BO1,204,203,200_.jpg" width="80px" />
 
+## T
+
 **The Design of Everyday Things, *revised and expanded edition*** - *Donald A. Norman*<br />
 🛒 http://amzn.to/2gHgLzc<br /><br />
 <img src="https://images-na.ssl-images-amazon.com/images/I/41qRRoovEWL._SX331_BO1,204,203,200_.jpg" width="80px" />
@@ -69,6 +84,8 @@ List of books useful to those working in the areas of Product Design &amp; UX. L
 **Thinking, Fast and Slow** - *Daniel Kahneman*<br />
 🛒 http://amzn.to/2xL0K5I<br /><br />
 <img src="https://images-na.ssl-images-amazon.com/images/I/41AcgakeG-L._SX335_BO1,204,203,200_.jpg" width="80px" />
+
+## W
 
 **Web Typography: *A handbook for designing beautiful and effective typography in responsive websites*** - *Richard Rutter*<br />
 🌐 *http://book.webtypography.net/*<br />
