@@ -111,3 +111,4 @@ Collecting together useful lists collated by others.
 🌐 https://www.billbuxton.com/bill_buxton_design_library.html<br />
 🌐 https://www.goodreads.com/group/show/202195-user-experience-design-slack<br />
 🌐 http://www.vandelaydesign.com/best-typography-books/
+🌐 https://designerhangout.co/books
