@@ -110,5 +110,5 @@ Collecting together useful lists collated by others.
 🌐 https://medium.com/interactive-mind/the-only-ux-reading-list-ever-d420edb3f4ff<br />
 🌐 https://www.billbuxton.com/bill_buxton_design_library.html<br />
 🌐 https://www.goodreads.com/group/show/202195-user-experience-design-slack<br />
-🌐 http://www.vandelaydesign.com/best-typography-books/
+🌐 http://www.vandelaydesign.com/best-typography-books/<br />
 🌐 https://designerhangout.co/books
