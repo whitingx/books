@@ -112,3 +112,4 @@ Collecting together useful lists collated by others.
 🌐 https://www.goodreads.com/group/show/202195-user-experience-design-slack<br />
 🌐 http://www.vandelaydesign.com/best-typography-books/<br />
 🌐 https://designerhangout.co/books
+🌐 https://uxuncensored.medium.com/darren-hoods-ux-research-uxr-book-recommendation-list-cdd2f5f5533e
