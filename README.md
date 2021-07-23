@@ -113,3 +113,4 @@ Collecting together useful lists collated by others.
 🌐 http://www.vandelaydesign.com/best-typography-books/<br />
 🌐 https://designerhangout.co/books
 🌐 https://uxuncensored.medium.com/darren-hoods-ux-research-uxr-book-recommendation-list-cdd2f5f5533e
+🌐 https://www.notion.so/Design-Books-by-Womxn-People-of-Color-efaffa5233cc44a8b3bebb2d0a2b038f
